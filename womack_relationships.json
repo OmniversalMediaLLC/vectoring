@@ -1,0 +1,84 @@
+{
+    "entities": [
+        {
+            "id": "P001",
+            "name": "Roland Ross Womack Jr.",
+            "role": "Patriarch"
+        },
+        {
+            "id": "P002",
+            "name": "Nancy Faye Womack",
+            "role": "Spouse / Trustee"
+        },
+        {
+            "id": "P003",
+            "name": "Ethan Ross Womack",
+            "role": "Adopted Son / Heir"
+        },
+        {
+            "id": "P004",
+            "name": "Phyllis Charlene Usry",
+            "role": "Aunt"
+        },
+        {
+            "id": "P005",
+            "name": "Charles Fenster Usry",
+            "role": "IT Admin / Enforcer"
+        },
+        {
+            "id": "P006",
+            "name": "Hollie Kathleen Carter",
+            "role": "Biological Mother"
+        }
+    ],
+    "connections": [
+        {
+            "source": "P001",
+            "target": "P002",
+            "type": "Marriage",
+            "notes": "Married Oct 21, 1989"
+        },
+        {
+            "source": "P001",
+            "target": "P003",
+            "type": "Adoption",
+            "notes": "Legal adoption, 1993"
+        },
+        {
+            "source": "P006",
+            "target": "P003",
+            "type": "Parent-Child",
+            "notes": "Biological mother"
+        },
+        {
+            "source": "P002",
+            "target": "P003",
+            "type": "Step-parent",
+            "notes": "Step-mother to Ethan"
+        },
+        {
+            "source": "P004",
+            "target": "P006",
+            "type": "Sibling",
+            "notes": "Phyllis and Hollie are sisters"
+        },
+        {
+            "source": "P004",
+            "target": "P005",
+            "type": "Marriage",
+            "notes": "Phyllis married to Charles"
+        },
+        {
+            "source": "P005",
+            "target": "P003",
+            "type": "Adversarial",
+            "notes": "Charles issued threats and tech manipulation to Ethan"
+        },
+        {
+            "source": "P002",
+            "target": "P005",
+            "type": "Trust Collaboration",
+            "notes": "Worked jointly to enforce trust structure"
+        }
+    ]
+}

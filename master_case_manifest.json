@@ -1,0 +1,60 @@
+{
+    "manifest": {
+        "version": "1.0",
+        "created": "2025-06-12",
+        "author": "Ethan Ross Womack",
+        "description": "Master record of individuals, aliases, addresses, and assets relevant to the Womack family trust and estate case"
+    },
+    "people": [
+        {
+            "ID": "P001",
+            "Name": "Roland Ross Womack Jr.",
+            "Aliases": "Buddy Womack",
+            "DOB": "1945-08-19",
+            "DOD": "2018-02-09",
+            "Known Addresses": "5999 Friendship Church Rd, Bartow, GA; 266 Orchard Way, North Augusta, SC",
+            "Role": "Vietnam Veteran, Defense Contractor, Father",
+            "Assets": "Military Pension, Johnson Controls Retirement, Firearms, Gold, House (Bartow), House (North Augusta)"
+        },
+        {
+            "ID": "P002",
+            "Name": "Nancy Faye Womack",
+            "Aliases": "Faye I. Womack, Nancy Fay Thurmond, Faye Ince",
+            "DOB": "1948-09-06",
+            "DOD": "",
+            "Known Addresses": "5999 Friendship Church Rd, Bartow, GA; 266 Orchard Way, North Augusta, SC",
+            "Role": "Spouse, Trust Executor",
+            "Assets": "SSA Widow Benefits, VA Benefits, Womack Family Trust, House (North Augusta)"
+        },
+        {
+            "ID": "P003",
+            "Name": "Ethan Ross Womack",
+            "Aliases": "Hawk Eye",
+            "DOB": "1989-12-18",
+            "DOD": "",
+            "Known Addresses": "266 Orchard Way, North Augusta, SC",
+            "Role": "Adopted Son, Legal Heir",
+            "Assets": "Truck (sold for $1), Potential estate inheritance"
+        },
+        {
+            "ID": "P004",
+            "Name": "Phyllis Charlene Usry",
+            "Aliases": "Charlene",
+            "DOB": "1969-03-18",
+            "DOD": "",
+            "Known Addresses": "North Augusta, SC",
+            "Role": "Step-sibling (non-adopted), Co-named in Will",
+            "Assets": "Unknown share of estate"
+        },
+        {
+            "ID": "P005",
+            "Name": "Charles Fenster Usry",
+            "Aliases": "Chuck",
+            "DOB": "",
+            "DOD": "",
+            "Known Addresses": "North Augusta, SC",
+            "Role": "IT Officer, Enforcer",
+            "Assets": "Access to networks, potential involvement in control of estate"
+        }
+    ]
+}

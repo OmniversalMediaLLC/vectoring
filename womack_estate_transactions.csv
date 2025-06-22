@@ -1,0 +1,8 @@
+TransactionID,Date,Type,Amount,Involved Parties,Description,Linked Asset
+TX001,2007-06-01,IRA Withdrawal,92000,"Roland Ross Womack Jr., Nancy Faye Womack",IRA withdrawal likely used to fund purchase of Bartow property,5999 Friendship Church Rd
+TX002,2007-06-01,Property Purchase,126000,"Roland Ross Womack Jr., Nancy Faye Womack","Purchase of home at 5999 Friendship Church Rd, Bartow, GA",5999 Friendship Church Rd
+TX003,2018-03-06,SSA Widow Claim,Undisclosed,Nancy Faye Womack,SSA widow benefits initiated using aliases,SSA Benefits
+TX004,2021-05-25,Asset Transfer to Trust,Unknown,Nancy Faye Womack,Creation of Womack Family Trust and transfer of estate assets,Womack Family Trust
+TX005,2021-09-03,Bank Deposit,33000,Nancy Faye Womack,Deposit into Womack Family Trust account,Womack Family Trust
+TX006,2018-06-01,Property Acquisition,Unknown,Nancy Faye Womack,"Purchase of 266 Orchard Way, North Augusta SC",266 Orchard Way
+TX007,2018-07-01,Property Sale,Unknown,Nancy Faye Womack,Sale of 5999 Friendship Church Rd property,5999 Friendship Church Rd
